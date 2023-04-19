@@ -1,0 +1,13 @@
+
+# Hepsiburada Uygulamasına Başarılı Üye Kaydı İşlemi Yapılır
+* "HesabimIcon" id'li elemente tikla
+* "UyeOlmaButon" xpath'li elemente tikla
+* "UyeMailAdresi" id'li elemente "cetawot823@ippals.com" text degerini gonder
+* "DevamEtButon" id'li elemente tikla
+* "DogrulamaMailGondermeKontrol" li elementin oldugu kontrol edilir
+* "UyeAd" id'li elemente "qwer" text degerini gonder
+* "UyeSoyad" id'li elemente "qwer" text degerini gonder
+* "UyeSifre" id'li elemente "Qwertyuı1" text degerini gonder
+* "UyelikTamamlama" id'li elemente tikla
+* "BasariliGirisKontrol" li element gorunur olana kadar bekle
+* "HosgeldinizPopUpKapatma" id'li elemente tikla

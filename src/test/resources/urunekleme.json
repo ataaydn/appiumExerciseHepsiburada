@@ -1,0 +1,22 @@
+[
+  {
+    "key": "UrunEkleme",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_add_to_cart",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunSepetKontrol",
+    "androidValue": "com.pozitron.hepsiburada:id/productSuccesTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "SepeteGitme",
+    "androidValue": "com.pozitron.hepsiburada:id/goBasketTxt",
+    "androidType": "id"
+  },
+  {
+    "key": "AlisverisiTamamlaButon",
+    "androidValue": "continue_step_btn",
+    "androidType": "id"
+  }
+]

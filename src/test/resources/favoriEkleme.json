@@ -1,0 +1,17 @@
+[
+  {
+    "key": "FavorilereEkleme",
+    "androidValue": "com.pozitron.hepsiburada:id/selectorIconFavorite",
+    "androidType": "id"
+  },
+  {
+    "key": "FavorilereGitme",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[7]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FavoriUrunKontrolu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]",
+    "androidType": "xpath"
+  },
+]

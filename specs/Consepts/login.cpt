@@ -1,0 +1,9 @@
+# Basarili Login
+* "HesabimIcon" id'li elemente tikla
+* "GirisYapButonu" id'li elemente tikla
+* "LoginMail" id'li elemente "cetawot823@ippals.com" text degerini gonder
+* "GirişYapButonuMailSonrasi" id'li elemente tikla
+* "LoginSifre" id'li elemente "Qwertyuı1" text degerini gonder
+* "GirisYapButonuSifreSonrasi" id'li elemente tikla
+* "GirisKontrolu" li element gorunur olana kadar bekle
+* "HosgeldinizPopUpKapatma" id'li elemente tikla

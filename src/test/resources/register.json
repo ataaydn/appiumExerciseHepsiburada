@@ -1,0 +1,57 @@
+[
+  {
+    "key": "HesabimIcon",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "UyeOlmaButon",
+    "androidValue": "//android.view.ViewGroup[@content-desc='account_menu_button_0']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UyeMailAdresi",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "DevamEtButon",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "DogrulamaMailGöndermeKontrol",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UyeAd",
+    "androidValue": "txtName",
+    "androidType": "id"
+  },
+  {
+    "key": "UyeSoyad",
+    "androidValue": "txtSurname",
+    "androidType": "id"
+  },
+  {
+    "key": "UyeSifre",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText xpath",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UyelikTamamlama",
+    "androidValue": "btnSignInSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "BasariliGirisKonrol",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  },
+  {
+    "key": "HosgeldinizPopUpKapatma",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  },
+]
